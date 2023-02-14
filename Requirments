@@ -1,0 +1,11 @@
+Python libraries required:
+
+scikit-learn
+numpy
+os
+pyAudioAnalysis
+pickle
+plotly
+matplotlib
+pandas
+statistics
